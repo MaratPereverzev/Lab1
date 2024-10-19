@@ -1,5 +1,4 @@
 #include "Classes.h"
-//#include "EngToRusDictionary.h"
 #include <iostream>
 
 EngToRusDictionary::EngToRusDictionary()

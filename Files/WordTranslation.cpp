@@ -1,4 +1,3 @@
-//#include "WordTranslation.h"
 #include "Classes.h"
 #include <iostream>
 

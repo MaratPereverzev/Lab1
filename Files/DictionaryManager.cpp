@@ -1,4 +1,3 @@
-//#include "DictionaryManager.h"
 #include "Classes.h"
 #include <fstream>;
 #include <regex>
